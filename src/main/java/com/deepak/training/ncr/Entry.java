@@ -5,10 +5,10 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class Parser {
+public class Entry {
 
     public static void main(String[] args) {
-        new Parser().parse();
+        new Entry().parse();
     }
 
     private void parse() {
